@@ -1,7 +1,7 @@
 # VISUALISING-METEOROLOGICAL-CONDITIONS-ASSOCIATED-WITH-PM2.5-EXCEEDANCES-IN-SHEFFIELD
 
 ## Project Overview
-This project investigates the meteorological conditions under which PM2.5 concentrations exceed the World Health Organization (WHO) 2021 health-based guideline in Sheffield. Using hourly air quality and meteorological data, a composite visualisation was developed to examine exceedance behaviour from relational, temporal, summary, and distributional perspectives, with a focus on wind speed and temperature as key dispersion-related factors.
+This project investigates the meteorological conditions under which PM2.5 concentrations exceed the World Health Organization (WHO) 2021 health-based guideline in Sheffield. Using hourly air quality and meteorological data, a composite visualisation was developed to examine exceedance behaviour from relational, temporal, summary, and distributional perspectives, with a focus on wind speed and temperature as key-related factors.
 
 ## ❓ Research Question
 Under what meteorological conditions (wind speed and temperature) do PM2.5 concentrations exceed the WHO 2021 health-based guideline in Sheffield?
