@@ -36,10 +36,10 @@ Together, these views provide a nuanced understanding of exceedance risk that wo
 ├── scripts/  
 │   └── final_code(visualisation).R            # Code for Visualisation
 ├── figures/  
-│   ├── figure1_scatter.png  
-│   ├── figure2_timeseries.png  
-│   ├── figure3_binned.png  
-│   └── figure4_boxplot.png  
+│   ├── figure1_scatter (Section2).png  
+│   ├── figure2_timeseries (Section3).png  
+│   ├── figure3_binned (Section4).png  
+│   └── figure4_boxplot (Section5).png  
 ```
 
 ## 💻 Code
